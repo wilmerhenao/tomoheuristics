@@ -1,0 +1,999 @@
+----- Running now with these many loops --:
+1
+Gurobi 6.0.5: optimal solution; objective 1311.402134
+57 simplex iterations
+plus 149 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 1004.828839
+11 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 1149.424915
+57 simplex iterations
+plus 149 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 1004.828839
+11 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 1004.828839
+11 barrier iterations
+No basis.
+PPtimekeeper = 0.421875
+
+CMPtimekeeper = 0
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+2
+Gurobi 6.0.5: optimal solution; objective 1004.828838
+57 simplex iterations
+plus 149 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 570.0365161
+15 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 764.412663
+76 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 570.0365161
+15 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 570.0365161
+15 barrier iterations
+No basis.
+PPtimekeeper = 0.625
+
+CMPtimekeeper = 0.0625
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+3
+Gurobi 6.0.5: optimal solution; objective 764.412663
+76 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 274.8839941
+15 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 485.1513411
+109 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 274.8839941
+15 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 274.8839941
+15 barrier iterations
+No basis.
+PPtimekeeper = 0.828125
+
+CMPtimekeeper = 0.0625
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+4
+Gurobi 6.0.5: optimal solution; objective 570.0365152
+97 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 94.40401637
+15 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 274.866857
+146 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 93.77772628
+14 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 93.77772628
+14 barrier iterations
+No basis.
+PPtimekeeper = 1.04688
+
+CMPtimekeeper = 0.046875
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+5
+Gurobi 6.0.5: optimal solution; objective 407.7151221
+115 simplex iterations
+plus 149 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 24.43067472
+14 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 127.9771522
+159 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 21.09027358
+14 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 51.67898392
+150 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 15.9428657
+15 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 28.55783264
+146 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 15.9428657
+15 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 15.9428657
+15 barrier iterations
+No basis.
+PPtimekeeper = 2.59375
+
+CMPtimekeeper = 0.125
+
+numberOfIterations = 4
+
+----- Running now with these many loops --:
+6
+Gurobi 6.0.5: optimal solution; objective 274.866857
+146 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 20.37105502
+15 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 83.550882
+142 simplex iterations
+plus 152 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 15.91322838
+15 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 32.1051629
+133 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 12.77406471
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 17.72735744
+135 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 12.77406471
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 12.77406471
+16 barrier iterations
+No basis.
+PPtimekeeper = 3.125
+
+CMPtimekeeper = 0.0625
+
+numberOfIterations = 4
+
+----- Running now with these many loops --:
+7
+Gurobi 6.0.5: optimal solution; objective 169.9650038
+153 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 18.22048417
+14 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 55.65127864
+140 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 14.06608161
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 24.04076302
+135 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 12.44227381
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 15.44187063
+147 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 12.44227381
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 12.44227381
+16 barrier iterations
+No basis.
+PPtimekeeper = 3.54688
+
+CMPtimekeeper = 0.1875
+
+numberOfIterations = 4
+
+----- Running now with these many loops --:
+8
+Gurobi 6.0.5: optimal solution; objective 92.56801099
+151 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 15.52323792
+15 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 34.29449786
+133 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 12.24712269
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 17.92017012
+135 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 12.24712269
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 12.24712269
+16 barrier iterations
+No basis.
+PPtimekeeper = 2.95312
+
+CMPtimekeeper = 0.09375
+
+numberOfIterations = 3
+
+----- Running now with these many loops --:
+9
+Gurobi 6.0.5: optimal solution; objective 41.16439958
+147 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 12.0973443
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 19.58273515
+135 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 12.0973443
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 12.0973443
+16 barrier iterations
+No basis.
+PPtimekeeper = 2.17188
+
+CMPtimekeeper = 0.109375
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+10
+Gurobi 6.0.5: optimal solution; objective 15.89635984
+238 simplex iterations
+2 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 10.44943993
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 11.97528588
+161 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 10.44943993
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 10.44943993
+16 barrier iterations
+No basis.
+PPtimekeeper = 2.46875
+
+CMPtimekeeper = 0.078125
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+11
+Gurobi 6.0.5: optimal solution; objective 11.32645719
+238 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 9.24841392
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 10.07133804
+172 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 9.24841392
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 9.24841392
+16 barrier iterations
+No basis.
+PPtimekeeper = 2.65625
+
+CMPtimekeeper = 0.0625
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+12
+Gurobi 6.0.5: optimal solution; objective 10.02412161
+297 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 7.964299572
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 8.796758353
+153 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 7.964299572
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 7.964299572
+17 barrier iterations
+No basis.
+PPtimekeeper = 2.98438
+
+CMPtimekeeper = 0.03125
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+13
+Gurobi 6.0.5: optimal solution; objective 9.507605638
+209 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 7.323744194
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 8.159920789
+149 simplex iterations
+plus 152 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 7.323744194
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 7.323744194
+16 barrier iterations
+No basis.
+PPtimekeeper = 3.1875
+
+CMPtimekeeper = 0.078125
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+14
+Gurobi 6.0.5: optimal solution; objective 9.359207042
+367 simplex iterations
+14 branch-and-cut nodes
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 6.92198135
+15 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 7.706558036
+174 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 6.099644462
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 6.791688512
+174 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 6.099644462
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 6.099644462
+16 barrier iterations
+No basis.
+PPtimekeeper = 5.03125
+
+CMPtimekeeper = 0.109375
+
+numberOfIterations = 3
+
+----- Running now with these many loops --:
+15
+Gurobi 6.0.5: optimal solution; objective 8.628841257
+171 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 6.117848376
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 7.110930451
+172 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 6.117848376
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 6.117848376
+16 barrier iterations
+No basis.
+PPtimekeeper = 3.6875
+
+CMPtimekeeper = 0.078125
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+16
+Gurobi 6.0.5: optimal solution; objective 8.72677452
+324 simplex iterations
+1 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 6.154610257
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 7.174847641
+200 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 6.154610257
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 6.154610257
+17 barrier iterations
+No basis.
+PPtimekeeper = 3.76562
+
+CMPtimekeeper = 0.046875
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+17
+Gurobi 6.0.5: optimal solution; objective 9.124063919
+1337 simplex iterations
+226 branch-and-cut nodes
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 5.883919677
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 7.246889219
+204 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 5.883919677
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.883919677
+16 barrier iterations
+No basis.
+PPtimekeeper = 4.1875
+
+CMPtimekeeper = 0.0625
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+18
+Gurobi 6.0.5: optimal solution; objective 7.953205428
+203 simplex iterations
+plus 152 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.66421823
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.966105478
+164 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.66421823
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 4.66421823
+17 barrier iterations
+No basis.
+PPtimekeeper = 4.34375
+
+CMPtimekeeper = 0.09375
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+19
+Gurobi 6.0.5: optimal solution; objective 9.080862132
+2665 simplex iterations
+479 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 5.387909406
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 6.880669401
+318 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 5.387909406
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.387909406
+16 barrier iterations
+No basis.
+PPtimekeeper = 4.65625
+
+CMPtimekeeper = 0.078125
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+20
+Gurobi 6.0.5: optimal solution; objective 8.140414169
+504 simplex iterations
+18 branch-and-cut nodes
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.406576232
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.906745424
+171 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.406576232
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 4.406576232
+16 barrier iterations
+No basis.
+PPtimekeeper = 4.78125
+
+CMPtimekeeper = 0.109375
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+21
+Gurobi 6.0.5: optimal solution; objective 8.588245289
+2102 simplex iterations
+309 branch-and-cut nodes
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 5.03555954
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 6.50397764
+177 simplex iterations
+plus 152 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 5.03555954
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.03555954
+16 barrier iterations
+No basis.
+PPtimekeeper = 5.23438
+
+CMPtimekeeper = 0.03125
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+22
+Gurobi 6.0.5: optimal solution; objective 8.651398929
+1048 simplex iterations
+145 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.013485488
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.846685254
+196 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.013485488
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 4.013485488
+17 barrier iterations
+No basis.
+PPtimekeeper = 5.26562
+
+CMPtimekeeper = 0.109375
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+23
+Gurobi 6.0.5: optimal solution; objective 7.871696289
+343 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.408475434
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.185922905
+176 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.408475434
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 3.408475434
+16 barrier iterations
+No basis.
+PPtimekeeper = 5.46875
+
+CMPtimekeeper = 0.078125
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+24
+Gurobi 6.0.5: optimal solution; objective 8.268714337
+903 simplex iterations
+112 branch-and-cut nodes
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.003569372
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.707526087
+169 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.003569372
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 4.003569372
+16 barrier iterations
+No basis.
+PPtimekeeper = 5.75
+
+CMPtimekeeper = 0.078125
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+25
+Gurobi 6.0.5: optimal solution; objective 7.958580376
+673 simplex iterations
+66 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.034152819
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.591610193
+190 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.034152819
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 4.034152819
+17 barrier iterations
+No basis.
+PPtimekeeper = 5.84375
+
+CMPtimekeeper = 0.0625
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+26
+Gurobi 6.0.5: optimal solution; objective 7.326063968
+199 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 2.864099292
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 4.649885622
+163 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 2.864099292
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 2.864099292
+17 barrier iterations
+No basis.
+PPtimekeeper = 5.96875
+
+CMPtimekeeper = 0.109375
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+27
+Gurobi 6.0.5: optimal solution; objective 8.073732471
+665 simplex iterations
+70 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 2.832235351
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 4.942835547
+174 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 2.832235351
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 2.832235351
+16 barrier iterations
+No basis.
+PPtimekeeper = 6.28125
+
+CMPtimekeeper = 0.109375
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+28
+Gurobi 6.0.5: optimal solution; objective 8.765417638
+2042 simplex iterations
+289 branch-and-cut nodes
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 5.091581583
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 6.593154202
+503 simplex iterations
+11 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 5.091581583
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.091581583
+16 barrier iterations
+No basis.
+PPtimekeeper = 6.6875
+
+CMPtimekeeper = 0.09375
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+29
+Gurobi 6.0.5: optimal solution; objective 9.135427846
+3606 simplex iterations
+560 branch-and-cut nodes
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.689218609
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 6.50680973
+415 simplex iterations
+10 branch-and-cut nodes
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.689218609
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 4.689218609
+16 barrier iterations
+No basis.
+PPtimekeeper = 7.17188
+
+CMPtimekeeper = 0.046875
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+30
+Gurobi 6.0.5: optimal solution; objective 7.888111292
+474 simplex iterations
+6 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 2.218940207
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 4.412916642
+196 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 2.218940207
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 2.218940207
+16 barrier iterations
+No basis.
+PPtimekeeper = 6.82812
+
+CMPtimekeeper = 0.09375
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+31
+Gurobi 6.0.5: optimal solution; objective 7.798137989
+423 simplex iterations
+11 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 4.378200748
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.63633123
+215 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 2.11367772
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 3.581885474
+169 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 2.11367772
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 2.11367772
+16 barrier iterations
+No basis.
+PPtimekeeper = 10.7656
+
+CMPtimekeeper = 0.140625
+
+numberOfIterations = 3
+
+----- Running now with these many loops --:
+32
+Gurobi 6.0.5: optimal solution; objective 8.232384169
+658 simplex iterations
+52 branch-and-cut nodes
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.804799924
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.694916411
+193 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.804799924
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 3.804799924
+16 barrier iterations
+No basis.
+PPtimekeeper = 7.35938
+
+CMPtimekeeper = 0.078125
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+33
+Gurobi 6.0.5: optimal solution; objective 8.299814755
+721 simplex iterations
+54 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.59255458
+18 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.469913693
+217 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.59255458
+18 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 3.59255458
+18 barrier iterations
+No basis.
+PPtimekeeper = 7.6875
+
+CMPtimekeeper = 0.09375
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+34
+Gurobi 6.0.5: optimal solution; objective 8.601051955
+1590 simplex iterations
+193 branch-and-cut nodes
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.518638398
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.552676163
+230 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.518638398
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 3.518638398
+17 barrier iterations
+No basis.
+PPtimekeeper = 8.0625
+
+CMPtimekeeper = 0.09375
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+35
+Gurobi 6.0.5: optimal solution; objective 9.064029487
+1559 simplex iterations
+238 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.06179656
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.347179469
+190 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.06179656
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 3.06179656
+17 barrier iterations
+No basis.
+PPtimekeeper = 8.1875
+
+CMPtimekeeper = 0.140625
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+36
+Gurobi 6.0.5: optimal solution; objective 7.980057705
+484 simplex iterations
+15 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.882114509
+18 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.469862484
+189 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.882114509
+18 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 3.882114509
+18 barrier iterations
+No basis.
+PPtimekeeper = 8.28125
+
+CMPtimekeeper = 0.078125
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+37
+Gurobi 6.0.5: optimal solution; objective 7.894103984
+611 simplex iterations
+61 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.825955631
+18 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.494240529
+190 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.825955631
+18 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 3.825955631
+18 barrier iterations
+No basis.
+PPtimekeeper = 8.5
+
+CMPtimekeeper = 0.15625
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+38
+Gurobi 6.0.5: optimal solution; objective 8.509066974
+973 simplex iterations
+88 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.772655223
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 5.715153981
+338 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.772655223
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 3.772655223
+17 barrier iterations
+No basis.
+PPtimekeeper = 8.8125
+
+CMPtimekeeper = 0.109375
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+39
+Gurobi 6.0.5: optimal solution; objective 8.142196437
+669 simplex iterations
+41 branch-and-cut nodes
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 2.4423779
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 4.574749167
+208 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 2.4423779
+16 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 2.4423779
+16 barrier iterations
+No basis.
+PPtimekeeper = 8.875
+
+CMPtimekeeper = 0.09375
+
+numberOfIterations = 2
+
+----- Running now with these many loops --:
+40
+Gurobi 6.0.5: optimal solution; objective 7.7264397
+417 simplex iterations
+plus 151 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.100268357
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 4.884192519
+135 simplex iterations
+plus 150 simplex iterations for intbasis
+Gurobi 6.0.5: optimal solution; objective 3.100268357
+17 barrier iterations
+No basis.
+Gurobi 6.0.5: optimal solution; objective 3.100268357
+17 barrier iterations
+No basis.
+PPtimekeeper = 9.20312
+
+CMPtimekeeper = 0.109375
+
+numberOfIterations = 2
+

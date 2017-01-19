@@ -1,0 +1,20 @@
+reset;
+model heuristic.mod;
+data tomononlinearevery32.dat;
+option solver gurobi, solution_round 3;
+problem CMP: y, z, z_plus, z_minus, ObjectiveFunction, doses_to_j, positive_only;
+problem PP: betas, z, z_plus, z_minus, ObjectiveFunction, doses_to_j_yparam, positive_only, Mbar_constraint;
+let numloops := 3;
+print "yes, I changed it"
+# Initialize to default values
+let {n in LEAVES, k in PROJECTIONS } betasparam = 0;	# All closed
+let {k in PROJECTIONS} yparam = U / 2; 		     	#Mid-Intensity
+repeat {
+	solve PP;
+	let {n in LEAVES, k in PROJECTIONS } betasparam [n, k] = betas[n,k]
+	solve CMP;
+	let {k in PROJECTIONS} yparam[k] = y[k]
+	display CMP
+}
+solve;
+display _total_solve_time;

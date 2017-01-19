@@ -1,0 +1,43 @@
+reset;
+model heuristic.mod;
+data tomononlinearevery32.dat;
+option solver gurobi, solution_round 3;
+problem CMP: y, z, z_plus, z_minus, ObjectiveFunction, doses_to_j, positive_only;
+problem PP: betas, z, z_plus, z_minus, ObjectiveFunction, doses_to_j_yparam, positive_only, Mlimits, abs_greater, abs_smaller;
+let numloops := 5;
+# Initialize to default values
+let {n in LEAVES, k in PROJECTIONS } betasparam[n,k] := 0;	# All closed
+let {k in PROJECTIONS} yparam[k] := U / 2; 		     	#Mid-Intensity
+let oldobj := 9999999;
+let newobj := 9999999;
+let PPtimekeeper := 0;
+let CMPtimekeeper := 0;
+repeat {
+        let oldobj := newobj;
+	
+	let timeflagold := _total_solve_time;
+	solve PP;
+	let proctime := _total_solve_time - timeflagold;
+	#print "PP time was: ";
+	#print proctime;
+	let PPtimekeeper := PPtimekeeper + proctime;
+	
+	let {n in LEAVES, k in PROJECTIONS } betasparam [n, k] := betas[n,k];
+	
+	let timeflagold := _total_solve_time;
+	solve CMP;
+	let proctime := _total_solve_time - timeflagold;
+	#print "CMP time was: ";
+	#print proctime;
+	let CMPtimekeeper := CMPtimekeeper + proctime;
+	
+	let {k in PROJECTIONS} yparam[k] := y[k];
+
+	# Exit condition
+	let newobj := ObjectiveFunction;
+	if abs(newobj - oldobj)/oldobj < 0.01 then break;
+}
+solve;
+display PPtimekeeper;
+display CMPtimekeeper;
+display _total_solve_time;
