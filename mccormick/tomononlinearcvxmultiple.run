@@ -1,7 +1,8 @@
 model tomononlinearcvxmultiple.mod;
-data tomononlinearevery32.dat;
+data ../data/tomononlinearevery32b.dat;
 
 option solver gurobi, solution_round 3;
 solve;
+display z;
 display _total_solve_time;
 

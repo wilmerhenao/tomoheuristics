@@ -1,6 +1,6 @@
 # Set definitions
 param numvoxels integer > 0;
-param numloops := 5;
+param numloops := 1;
 
 set PROJECTIONS = {0..numloops * 178 - 1};
 set PROJECTIONSM1 = {0..numloops * 178 - 2};
@@ -29,7 +29,7 @@ var z_minus {j in VOXELS} >= 0;
 minimize Total_Impact: sum {j in VOXELS} (quadHelperUnder[j] * z_minus[j] * z_minus[j] + quadHelperOver[j] * z_plus[j] * z_plus[j]);
 
 # Constraints
-subject to doses_to_j {j in VOXELS}: z[j] = sum{thisloop in 0..(numloops-1)} sum{ (n, k, j) in KNJPARAMETERS}( D[n, k, j] * xi[n, k + 178 * thisloop]);# + sum{ (n, k, j) in KNJPARAMETERS}( D[n, k, j] * xi[n, k + 178]);
+subject to doses_to_j {j in VOXELS}: z[j] = sum{thisloop in 0..(numloops-1)} sum{ (n, k, j) in KNJPARAMETERS}( D[n, k, j] * xi[n, k + 178 * thisloop]);
 positive_only {j in VOXELS}: z_plus[j] - z_minus[j] = z[j] - thethreshold[j];
 Mlimits {n in LEAVES}: sum{k in PROJECTIONSM1} mu[n,k] <= Mbar;
 abs_greater {n in LEAVES, k in PROJECTIONSM1}: mu[n,k] >= betas[n, k+1] - betas[n,k];

@@ -31,7 +31,7 @@ param yBar{k in PROJECTIONS} >= 0, <= U;
 
 # Variables
 var betas {n in LEAVES, k in PROJECTIONS} binary;
-var mu{n in LEAVES, k in PROJECTIONSM1} >= 0;
+var mu{n in LEAVES, k in PROJECTIONSM1} binary;
 var y {k in PROJECTIONS} >= 0, <= U;
 var z {j in VOXELS} >= 0;
 var z_plus {j in VOXELS} >= 0;
@@ -41,7 +41,7 @@ var z_minus {j in VOXELS} >= 0;
 minimize ObjectiveFunction: sum {j in VOXELS} (quadHelperUnder[j] * z_minus[j] * z_minus[j] + quadHelperOver[j] * z_plus[j] * z_plus[j]);
 
 # Constraints
-subject to doses_to_j {j in VOXELS}: z[j] = sum{thisloop in 0..(numloops-1)} sum{ (n,k,j) in KNJPARAMETERS}( D[n,k,j] * betasparam[n,k] * y[k + 178 * thisloop]);
+subject to doses_to_j {j in VOXELS}: z[j] = sum{thisloop in 0..(numloops-1)} (sum{ (n,k,j) in KNJPARAMETERS}( D[n,k,j] * betasparam[n,k] * y[k + 178 * thisloop]));
 subject to positive_only {j in VOXELS}: z_plus[j] - z_minus[j] = z[j] - thethreshold[j];
 
 # -------------------------------------------------------------------
